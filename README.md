@@ -1,18 +1,31 @@
-## Getting Started
+# Flappy Bird - En Desarrollo 🐦
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+¡Bienvenido a mi proyecto de **Flappy Bird**! 🎮🚀
 
-## Folder Structure
+## 📌 Descripción
+Este es un clon de **Flappy Bird** que estoy desarrollando como práctica. Actualmente, el juego está en progreso y aún estoy trabajando en sus mecánicas y características.
 
-The workspace contains two folders by default, where:
+## 🚧 Estado del Proyecto
+🔹 En desarrollo 🏗️
+🔹 Próximamente agregaré mejoras y nuevas funciones
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🔥 Características Planeadas
+✔️ Movimiento del pájaro 🐤
+✔️ Obstáculos dinámicos 🚧
+✔️ Detección de colisiones 💥
+✔️ Sistema de puntuación 🎯
+❌ Sonidos y efectos 🔊 *(pendiente)*
+❌ Menú de inicio y reinicio 📜 *(pendiente)*
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🚀 Instalación y Ejecución (por agregar)
+Instrucciones para ejecutar el juego próximamente...
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tecnologías Usadas
+- Java
+- Swing
 
-## Dependency Management
+## 📌 Notas
+Este proyecto está en desarrollo, cualquier sugerencia es bienvenida. ¡Gracias por tu interés! 😊
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
